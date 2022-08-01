@@ -1,0 +1,2 @@
+patientID;sampleID;libraryID;rgID;R1;R2
+NA12878;HG0001;NA12878-Lib;NA12878-rgID;https://raw.githubusercontent.com/ikmb/nf-testdata/master/hla/NA12878.extracted.1.fq.gz;https://raw.githubusercontent.com/ikmb/nf-testdata/master/hla/NA12878.extracted.2.fq.gz
