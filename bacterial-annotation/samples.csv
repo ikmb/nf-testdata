@@ -1,2 +1,2 @@
-sample,genus,species,strain,fasta
-Ecoli_K12,Escherichia,coli,K12,https://raw.githubusercontent.com/ikmb/nf-testdata/master/bacterial-annotation/ecoli.fasta
+sample,genus,species,strain,fasta,busco
+Ecoli_K12,Escherichia,coli,K12,https://raw.githubusercontent.com/ikmb/nf-testdata/master/bacterial-annotation/ecoli.fasta,enterobacterales_odb10
